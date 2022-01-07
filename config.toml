@@ -1,4 +1,4 @@
 baseURL = 'https://blog.raidsrc.me'
 languageCode = 'en-us'
 title = "what's good"
-theme = 'blackburn'
+theme = 'etch'
