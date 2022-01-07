@@ -1,4 +1,23 @@
 baseURL = 'https://blog.raidsrc.me'
 languageCode = 'en-us'
-title = "what's good"
+title = "blog.raidsrc.me"
 theme = 'etch'
+
+[params]
+copyright = "Copyright © 2020 raidsrc"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
