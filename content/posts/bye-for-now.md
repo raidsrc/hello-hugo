@@ -7,4 +7,6 @@ Back at school. I made it into the UC Davis Jazz Ensembles despite completely mi
 
 Still working on the site(s). It's still fun. But I'm running out of time. Life is speeding up and I'm struggling to keep pace. 
 
+Got results from a COVID-19 test yesterday. Negative. I think I'm just built different. I've been exposed multiple times to multiple people who tested positive. I'm still negative. ~~Fuck a virus fr on god on 2 virgils keepin it a buck fifty imma wipe a viruses nose if it comes down to it~~
+
 Alright. I'm done here. Peace out. I'll get back to writing here someday, maybe, I don't know.
